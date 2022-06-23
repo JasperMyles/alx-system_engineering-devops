@@ -1,2 +1,0 @@
-#!/binybash
-chmod --reference=olleh hello
